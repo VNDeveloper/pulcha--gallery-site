@@ -1,0 +1,8 @@
+#-- enviroments --#
+venv/
+
+#-- py --#
+__pycache__/
+
+#-- folder --#
+web_assets/
